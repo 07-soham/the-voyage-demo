@@ -61,5 +61,5 @@ Each of these shows on the site as a dashed "owner to add" tag, and BRIEF.md has
 10. **Swiggy link.**
 11. **Menu.** Veg and non-veg markers (desserts are unmarked) and dine-in prices. The site uses Zomato prices from Nov 2026.
 12. **Pet policy.** The cafe is listed as pet-friendly, but the hostel policy is unknown.
-13. **Real domain.** Update the canonical and OG URLs, which are now `thevoyage-demo.pages.dev`.
+13. **Real domain.** Update the canonical and OG URLs, which now point to the demo at `07-soham.github.io/the-voyage-demo`.
 14. **At launch:** remove the demo banner, the `noindex` meta, `X-Robots-Tag` and the `robots.txt` Disallow, and connect the booking and table forms.

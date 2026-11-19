@@ -40,12 +40,12 @@ def picture(name, alt, sizes, mode):
     ws = m["sizes"]
     h = round(m["h"] * ws[-1] / m["w"])
     def ss(ext):
-        return ", ".join(f"/img/{name}-{w}.{ext} {w}w" for w in ws)
+        return ", ".join(f"img/{name}-{w}.{ext} {w}w" for w in ws)
     eager = mode == "eager"
     attrs = 'fetchpriority="high" decoding="async"' if eager else 'loading="lazy" decoding="async"'
     return (f'<picture><source type="image/avif" srcset="{ss("avif")}" sizes="{sizes}">'
             f'<source type="image/webp" srcset="{ss("webp")}" sizes="{sizes}">'
-            f'<img src="/img/{name}-{ws[min(1, len(ws)-1)]}.webp" alt="{html.escape(alt)}" width="{ws[-1]}" height="{h}" {attrs}></picture>')
+            f'<img src="img/{name}-{ws[min(1, len(ws)-1)]}.webp" alt="{html.escape(alt)}" width="{ws[-1]}" height="{h}" {attrs}></picture>')
 
 
 def rooms():
@@ -80,7 +80,7 @@ def schema(menu_data):
         "@type": ["Hostel", "CafeOrCoffeeShop"],
         "name": "The Voyage | Cafe | Hostel | Co-work",
         "description": "Nautical-themed cafe, hostel and co-working space in Koregaon Park, Pune.",
-        "image": "/img/hero-boat-ceiling-1280.webp",
+        "image": "https://07-soham.github.io/the-voyage-demo/img/hero-boat-ceiling-1280.webp",
         "telephone": "+91-99993-09921",
         "priceRange": "₹690–₹2,520 per night; cafe ~₹1,800 for two",
         "servesCuisine": ["Continental", "Italian", "Healthy food", "Coffee"],

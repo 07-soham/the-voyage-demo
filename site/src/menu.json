@@ -1,0 +1,747 @@
+[
+{
+"cat": "Breakfast",
+"items": [
+[
+"Scrambled eggs (2)",
+235,
+"egg"
+],
+[
+"Masala omelette (2)",
+235,
+"egg"
+],
+[
+"Sunny side up (2)",
+235,
+"egg"
+],
+[
+"Sautéed garlic spinach omelette",
+305,
+"egg"
+],
+[
+"Mushroom & herb omelette with feta",
+345,
+"egg"
+],
+[
+"Scrambled egg with truffle oil",
+375,
+"egg"
+],
+[
+"Shakshouka",
+445,
+"egg"
+],
+[
+"Tofu scramble with sautéed vegetables",
+445,
+"veg"
+],
+[
+"Crispy ghee fried eggs",
+445,
+"egg"
+],
+[
+"Paneer akuri with sautéed spinach",
+445,
+"veg"
+],
+[
+"Nutella crepes with roasted walnut",
+445,
+"veg"
+],
+[
+"French toast with dates syrup",
+375,
+"veg"
+],
+[
+"Classic American pancakes",
+375,
+"veg"
+],
+[
+"Chocolate banana pancake",
+375,
+"veg"
+],
+[
+"Pesto mushroom spinach crepes",
+445,
+"veg"
+]
+]
+},
+{
+"cat": "Toast & bowls",
+"items": [
+[
+"Roasted bell pepper pesto feta on toast",
+445,
+"veg"
+],
+[
+"Peri peri chicken on toast",
+485,
+"nonveg"
+],
+[
+"Creamy chicken mayo on toast",
+485,
+"nonveg"
+],
+[
+"Avocado guacamole on toast with feta",
+695,
+"veg"
+],
+[
+"Berry nutty smoothie bowl",
+495,
+"veg"
+],
+[
+"Mango mint banana smoothie bowl",
+495,
+"veg"
+],
+[
+"Chocolate peanut butter smoothie bowl",
+495,
+"veg"
+],
+[
+"Chocolate Nutella smoothie bowl",
+565,
+"veg"
+],
+[
+"Voyage tropical breakfast bowl",
+565,
+"veg"
+]
+]
+},
+{
+"cat": "Small plates",
+"items": [
+[
+"Classic fries",
+235,
+"veg"
+],
+[
+"Peri peri fries",
+295,
+"veg"
+],
+[
+"Garlic bread",
+215,
+"veg"
+],
+[
+"Cheese garlic bread",
+295,
+"veg"
+],
+[
+"Cheese corn balls",
+375,
+"veg"
+],
+[
+"Cheese jalapeño cigar",
+395,
+"veg"
+],
+[
+"Nachos with cheese sauce",
+425,
+"veg"
+],
+[
+"The Voyage veg nachos overloaded",
+495,
+"veg"
+],
+[
+"Chicken overloaded nachos",
+565,
+"nonveg"
+],
+[
+"Veg tacos",
+425,
+"veg"
+],
+[
+"Chicken tacos",
+535,
+"nonveg"
+],
+[
+"Bruschetta al pomodoro",
+465,
+"veg"
+],
+[
+"Mushroom crostini with arugula",
+465,
+"veg"
+],
+[
+"Stuffed cheese mushroom",
+465,
+"veg"
+],
+[
+"Paneer tossed in burnt garlic",
+465,
+"veg"
+],
+[
+"Chicken satay, peanut chilli sauce",
+485,
+"nonveg"
+],
+[
+"Spicy BBQ chicken wings",
+485,
+"nonveg"
+],
+[
+"Cilantro chicken wings",
+485,
+"nonveg"
+],
+[
+"Thai basil chicken",
+565,
+"nonveg"
+],
+[
+"Lemon butter garlic prawns",
+685,
+"nonveg"
+],
+[
+"Crispy prawns, thousand island",
+685,
+"nonveg"
+]
+]
+},
+{
+"cat": "Burgers & panini",
+"items": [
+[
+"Beetroot and spinach burger",
+445,
+"veg"
+],
+[
+"Crunchy veg and cheese burger",
+445,
+"veg"
+],
+[
+"Fried grilled paneer burger",
+485,
+"veg"
+],
+[
+"Chicken barbeque burger",
+495,
+"nonveg"
+],
+[
+"Grilled chicken burger",
+495,
+"nonveg"
+],
+[
+"Cheese hamburger",
+525,
+"nonveg"
+],
+[
+"Loaded patty chicken burger",
+565,
+"nonveg"
+],
+[
+"Grilled vegetable spicy jalapeño panini",
+485,
+"veg"
+],
+[
+"Paneer pesto bell pepper panini",
+485,
+"veg"
+],
+[
+"Corn mushroom spinach panini",
+485,
+"veg"
+],
+[
+"Paneer fajita panini",
+495,
+"veg"
+],
+[
+"Caramelized onion BBQ chicken panini",
+495,
+"nonveg"
+],
+[
+"The Voyage banh mi",
+545,
+"nonveg"
+],
+[
+"Peri peri chicken panini",
+585,
+"nonveg"
+]
+]
+},
+{
+"cat": "Soups & salads",
+"items": [
+[
+"Roasted pumpkin and carrot soup",
+235,
+"veg"
+],
+[
+"Broccoli and spinach soup",
+235,
+"veg"
+],
+[
+"Cream of tomato basil",
+235,
+"veg"
+],
+[
+"Cream of mushroom and rosemary",
+235,
+"veg"
+],
+[
+"Cream of chicken soup",
+265,
+"nonveg"
+],
+[
+"Chicken clear soup with basil",
+265,
+"nonveg"
+],
+[
+"Roasted beet, orange & quinoa salad with feta",
+445,
+"veg"
+],
+[
+"Watermelon basil feta salad",
+445,
+"veg"
+],
+[
+"Classic Caesar salad",
+445,
+"veg"
+],
+[
+"Green apple spinach walnut salad",
+495,
+"veg"
+],
+[
+"Chicken Caesar salad",
+495,
+"nonveg"
+],
+[
+"Grilled chicken warm vegetable salad",
+495,
+"nonveg"
+]
+]
+},
+{
+"cat": "Pizza & pasta",
+"items": [
+[
+"Classic Margherita",
+445,
+"veg"
+],
+[
+"Corn capsicum jalapeño",
+495,
+"veg"
+],
+[
+"Ultimate pizza",
+495,
+"veg"
+],
+[
+"Mushroom delight (10\")",
+595,
+"veg"
+],
+[
+"Pizza Mexicano (10\")",
+595,
+"veg"
+],
+[
+"Paneer tikka pizza",
+595,
+"veg"
+],
+[
+"Pesto chicken pizza",
+595,
+"nonveg"
+],
+[
+"Chicken tikka and herbs pizza",
+655,
+"nonveg"
+],
+[
+"Smoky barbeque chicken pizza",
+655,
+"nonveg"
+],
+[
+"Arrabbiata",
+425,
+"veg"
+],
+[
+"Aglio olio e peperoncino",
+425,
+"veg"
+],
+[
+"Creamy Alfredo",
+465,
+"veg"
+],
+[
+"Pesto alla Genovese",
+485,
+"veg"
+],
+[
+"Pink sauce pasta",
+525,
+"veg"
+],
+[
+"Pasta con verdure",
+595,
+"veg"
+]
+]
+},
+{
+"cat": "Bowls & specials",
+"items": [
+[
+"Veg Manchurian, garlic cilantro rice",
+485,
+"veg"
+],
+[
+"Green Thai curry veg, basil rice",
+485,
+"veg"
+],
+[
+"Red Thai curry veg, basil rice",
+485,
+"veg"
+],
+[
+"Burnt garlic noodles, paneer schezwan",
+485,
+"veg"
+],
+[
+"Paneer soya chilli, burnt garlic rice",
+525,
+"veg"
+],
+[
+"Green Thai curry chicken, basil rice",
+565,
+"nonveg"
+],
+[
+"Chicken dhaba-style curry, ghee rice",
+565,
+"nonveg"
+],
+[
+"Mexican bowl (non-veg)",
+625,
+"nonveg"
+],
+[
+"Prawns curry, coriander rice",
+735,
+"nonveg"
+],
+[
+"Paneer shashlik, peri peri peanut sauce",
+565,
+"veg"
+],
+[
+"Grilled paneer steak, marinara",
+565,
+"veg"
+],
+[
+"Grilled chicken steak, lemon cream capers",
+625,
+"nonveg"
+],
+[
+"Grilled chicken steak, smoky BBQ",
+625,
+"nonveg"
+],
+[
+"Grilled prawns, lemon pepper sauce",
+735,
+"nonveg"
+],
+[
+"Caprese stuffed mushroom (keto)",
+465,
+"veg"
+],
+[
+"Zucchini fritters, sour cream dip (keto)",
+565,
+"veg"
+]
+]
+},
+{
+"cat": "Coffee & tea",
+"items": [
+[
+"Espresso",
+135,
+"veg"
+],
+[
+"Americano",
+165,
+"veg"
+],
+[
+"Cappuccino",
+215,
+"veg"
+],
+[
+"Latte",
+215,
+"veg"
+],
+[
+"Mocha",
+215,
+"veg"
+],
+[
+"Affogato",
+225,
+"veg"
+],
+[
+"Hot chocolate",
+275,
+"veg"
+],
+[
+"Iced latte",
+245,
+"veg"
+],
+[
+"Signature cold coffee",
+275,
+"veg"
+],
+[
+"Classic cold brew",
+220,
+"veg"
+],
+[
+"Vietnamese cold brew",
+245,
+"veg"
+],
+[
+"Hibiscus rose cold brew",
+260,
+"veg"
+],
+[
+"Sunrise cold brew",
+260,
+"veg"
+],
+[
+"Masala tea",
+175,
+"veg"
+],
+[
+"Ginger tea",
+175,
+"veg"
+],
+[
+"Earl Grey (pot)",
+260,
+"veg"
+],
+[
+"Ginger lemon honey (pot)",
+260,
+"veg"
+]
+]
+},
+{
+"cat": "Juices & shakes",
+"items": [
+[
+"Watermelon juice",
+275,
+"veg"
+],
+[
+"Pineapple juice",
+275,
+"veg"
+],
+[
+"Orange juice",
+275,
+"veg"
+],
+[
+"Pomegranate juice",
+335,
+"veg"
+],
+[
+"Apple, beetroot & carrot cooler",
+335,
+"veg"
+],
+[
+"Pineapple, orange, mint & chia cooler",
+335,
+"veg"
+],
+[
+"Cucumber, pineapple & spinach cooler",
+335,
+"veg"
+],
+[
+"Virgin mojito",
+225,
+"veg"
+],
+[
+"Blue Moon mocktail",
+285,
+"veg"
+],
+[
+"Virgin piña colada",
+285,
+"veg"
+],
+[
+"Lemon iced tea",
+205,
+"veg"
+],
+[
+"Mango milkshake",
+245,
+"veg"
+],
+[
+"KitKat and nut shake",
+295,
+"veg"
+],
+[
+"Oreo frappe",
+295,
+"veg"
+],
+[
+"Cold mocha frappe",
+295,
+"veg"
+]
+]
+},
+{
+"cat": "Desserts",
+"items": [
+[
+"Blueberry cheesecake",
+285,
+"tbc"
+],
+[
+"Chocolate mousse cake",
+285,
+"tbc"
+],
+[
+"Crème caramel",
+285,
+"tbc"
+],
+[
+"Chocolate walnut brownie on sizzler",
+425,
+"tbc"
+],
+[
+"Chocolate lava cake with vanilla ice cream",
+425,
+"tbc"
+]
+]
+}
+]
